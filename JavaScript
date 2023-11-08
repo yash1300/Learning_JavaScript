@@ -1,0 +1,1 @@
+Here are all the file/concept that one needs to understand to learn JavaScript 
