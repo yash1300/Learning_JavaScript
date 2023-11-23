@@ -1,5 +1,5 @@
 # Learning_JavaScript
-In the journey of learning JavaScript
+In the journey of learning JavaScript (ongoing process)
 
 For more clear understanding of all the code snippets follow in this sequence:
 1. 01_basics
