@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation</title>
+    <script src="/JS_TUT/06_dom/04_js.js"></script>
+</head>
+<body style="background-color: #212121; color: #fff">
+    <ul class="lang">
+        <li>JavaScript</li>
+    </ul>
+</body>
+<script>
+    function addLanguage (langName){
+        const li = document.createElement('li');
+        li.innerHTML = `${langName}`
+        document.querySelector('.language').appendChild(li)
+    }
+    addLanguage('python')
+    addLanguage("Java")
+
+    function addOptiLanguage (langName){
+        const li = document.createElement('li');
+        
+    }
+
+    function addOptiLanguage(langName){
+        const li = document.createElement('li');
+        li.appendChild(document.createTextNode(langName))
+        document.querySelector('.language').appendChild(li)
+    }
+    addOptiLanguage("suiuui")
+    addOptiLanguage("avue")
+
+    // edit 
+
+    const secondLang = document.querySelector("li:nthchild(2)");
+    console.log(secondLang)
+    // secondLang.innerHTML = "mojo";
+
+    const newli = document.createElement('li')
+    newli.textContent = "mojo"
+    secondLang.replaceWith(newli)
+
+    const firstlang = document.querySelector("li-first-child")
+    firstlang.innerHTML = 'solo'
+
+    // remove
+
+    const lastlang = document.querySelector("li-last-child")
+    lastlang.remove()
+
+
+</script>
+</html>
+
+<!-- DOM FINISHED -->
