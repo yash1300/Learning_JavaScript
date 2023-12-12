@@ -10,4 +10,6 @@ In the journey of learning JavaScript (ongoing process)
   <li>03_basics</li>
   <li>04_control_flow</li>
   <li>05_loops</li>
+  <li>06_dom</li>
+  
 </ol>
