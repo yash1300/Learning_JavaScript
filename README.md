@@ -13,3 +13,5 @@ In the journey of learning JavaScript (ongoing process)
   <li>06_dom</li>
   
 </ol>
+
+<a href="01_basics></a>
