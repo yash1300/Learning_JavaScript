@@ -2,13 +2,13 @@
 
 
 
-# Project 1
+# Project 1 solution
 
 <a href="https://stackblitz.com/edit/dom-project-chaiaurcode-8fqn7y">FULL PROJECT</a>
 
 ```
 
- Whole project is on the stackblitz.com and the code provided here is 
+Whole project is on the stackblitz.com and the code provided here is 
 just the JavaScript based solution to the problem 
 refer the website and the forked project for more clear and better understanding 
 this is the solution for color changing problem
