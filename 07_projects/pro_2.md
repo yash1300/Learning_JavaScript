@@ -1,19 +1,21 @@
 
 
-# Project 2
+# Project 2 solution
+
+<a href="https://stackblitz.com/edit/dom-project-chaiaurcode-8fqn7y">FULL PROJECT</a>
 
 ```
 
 
 !-- Projects realted to DOM -->
 
-<!-- Whole project is on the stackblitz.com and the code provided here is 
+Whole project is on the stackblitz.com and the code provided here is 
 just the JavaScript based solution to the problem 
 refer the website and the forked project for more clear and better understanding 
-this is the solution for BMI generator problem-->
+this is the solution for BMI generator problem>
 
 
-JAVASCRIPT PRO_1
+JAVASCRIPT PRO_2
 
 const form = document.querySelector('form');
 
