@@ -1,13 +1,17 @@
 <!-- Projects realted to DOM -->
 
+
+
+# Project 1
+
+```
+
 <!-- Whole project is on the stackblitz.com and the code provided here is 
 just the JavaScript based solution to the problem 
 refer the website and the forked project for more clear and better understanding 
 this is the solution for color changing problem-->
 
-# Project 1
 
-```
 JAVASCRIPT PRO_1
 
 const buttons = document.querySelectorAll(".button")
