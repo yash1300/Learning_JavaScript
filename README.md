@@ -14,7 +14,8 @@ JavaScript is a weakly typed language (dynamically typed). JavaScript can be use
   <li><a href="04_control_flow">04_control_flow</a></li>
   <li><a href="05_loops">05_loops</a></li>
   <li><a href="06_dom">06_dom</a></li>
-   <li><a href="07_projects">07_projects</a></li>
+  <li><a href="07_projects">07_projects</a></li>
+  <li><a href="08_events">08_events</a></li>
 </ol>
 
 
