@@ -15,7 +15,7 @@ refer the website and the forked project for more clear and better understanding
 this is the solution for BMI generator problem>
 
 
-JAVASCRIPT PRO_2
+<h2>JAVASCRIPT PRO_2 SOLUTION</h2>
 
 const form = document.querySelector('form');
 
