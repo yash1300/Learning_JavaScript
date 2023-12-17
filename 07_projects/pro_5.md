@@ -4,7 +4,7 @@
 
 
 ```
-JavaScript 
+JavaScript PRO_5 SOLUTION
 
 const insert = document.getElementById('insert');
 
