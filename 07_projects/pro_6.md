@@ -3,7 +3,7 @@
 
 
 ```
-JavaScript
+JavaScript PRO_6 SOLUTION
 
 //generate a random color
 
