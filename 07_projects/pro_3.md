@@ -6,7 +6,7 @@
 
 ```
 
-JAVASCRIPT PRO_3
+JAVASCRIPT PRO_3 SOLUTION
 
 const clock = document.getElementById('clock');
 // const clock = document.querySelector('#clock')
