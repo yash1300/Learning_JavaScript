@@ -3,7 +3,7 @@
 
 ```
 
-JavaScript
+JavaScript PRO_4 SOLUTION
 
 let randomNumber = parseInt(Math.random() * 100 + 1);
 
