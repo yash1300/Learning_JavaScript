@@ -14,7 +14,7 @@ refer the website and the forked project for more clear and better understanding
 this is the solution for color changing problem
 
 
-JAVASCRIPT PRO_1 SOLUTION
+JavaScipt PRO_1 SOLUTION
 
 const buttons = document.querySelectorAll(".button")
 // console.log("buttons")
