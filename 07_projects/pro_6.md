@@ -3,6 +3,13 @@
 
 
 ```
+
+Whole project is on the stackblitz.com and the code provided here is 
+just the JavaScript based solution to the problem 
+refer the website and the forked project for more clear and better understanding 
+this is the solution for problem 6
+
+
 JavaScript PRO_6 SOLUTION
 
 //generate a random color
