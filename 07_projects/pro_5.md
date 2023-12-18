@@ -4,6 +4,13 @@
 
 
 ```
+
+Whole project is on the stackblitz.com and the code provided here is 
+just the JavaScript based solution to the problem 
+refer the website and the forked project for more clear and better understanding 
+this is the solution for problem 5
+
+
 JavaScript PRO_5 SOLUTION
 
 const insert = document.getElementById('insert');
