@@ -1,5 +1,6 @@
 # Learning_JavaScript
 
+<p>Using github desktop to just check how can we contribute in open source by starting from my own rep</p>
 
 In the journey of learning JavaScript <strong>(ongoing process)</strong>
 <p>JavaScript is a lightweight, cross-platform, single-threaded, and interpreted compiled programming language. It is also known as the scripting language for webpages. It is well-known for the development of web pages, and many non-browser environments also use it.
